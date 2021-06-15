@@ -1,9 +1,9 @@
 <!-- Profile views -->
 
-<p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/85122412/121987016-8593b780-cd8f-11eb-9e19-abfa3b0b6d6b.png)
-">
-</p>
+
+  [![Yassine BILAL.](https://user-images.githubusercontent.com/85122412/121987016-8593b780-cd8f-11eb-9e19-abfa3b0b6d6b.png)]
+
+
 
 <!-- Personal facts -->
 
