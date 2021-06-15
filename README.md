@@ -1,7 +1,7 @@
 <!-- Profile views -->
 
 
-  [![Yassine BILAL.](https://user-images.githubusercontent.com/85122412/121987016-8593b780-cd8f-11eb-9e19-abfa3b0b6d6b.png)]
+  [![Yassine BILAL.](https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
 
 
 
