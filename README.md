@@ -1,8 +1,8 @@
 <!-- Profile views -->
 
 
-  [![Yassine BILAL.](https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
-
+<!--  [![Yassine BILAL.](https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
+-->
 
 
 <!-- Personal facts -->
