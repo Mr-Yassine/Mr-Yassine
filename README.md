@@ -1,7 +1,7 @@
 <!-- Profile views -->
 
-<img src="https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer" alt="pic"/>
-
+<!-- <img src="https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer" alt="pic"/>
+ -->
 
 <!-- Personal facts -->
 
