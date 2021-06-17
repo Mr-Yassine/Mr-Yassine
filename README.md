@@ -1,7 +1,7 @@
 <!-- Profile views -->
 
-<!-- <img src="https://www.canva.com/design/DAEhZ75C7NQ/EnimWaPZMPTglsX_aRW7OA/view?utm_content=DAEhZ75C7NQ&utm_campaign=designshare&utm_medium=link&utm_source=viewer" alt="pic"/>
- -->
+![linkedin-background](https://user-images.githubusercontent.com/85122412/122470909-88242600-cfb6-11eb-8f3b-b10d83f049f4.png)
+
 
 <!-- Personal facts -->
 
