@@ -74,6 +74,24 @@
 </p>
 
 
+<div>
+<img align=center src="https://github-readme-stats.vercel.app/api/?username=ouchenn&show_icons=true&theme=algolia&hide_border=true" />
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchenn&langs_count=8&hide=shell,hack&layout=compact&theme=algolia&hide_border=true" />
+</div>
+
+### Languages and Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-05122A?style=flat&logo=SASS)&nbsp;
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
+![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![VueJs](https://img.shields.io/badge/Vue%20JS-05122A?style=flat&logo=vuedotjs)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=F29111)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![LARAVEL](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel)&nbsp;
+
 
 <br>
 
