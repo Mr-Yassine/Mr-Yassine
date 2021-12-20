@@ -78,8 +78,8 @@
 
 
 <div>
-<img align=center src="https://github-readme-stats.vercel.app/api/?username=Mr_Yassine&show_icons=true&theme=algolia&hide_border=true" /> &nbsp;
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr_Yassine&langs_count=8&hide=shell,hack&layout=compact&theme=algolia&hide_border=true" />
+<img align=center src="https://github-readme-stats.vercel.app/api/?username=Mr-Yassine&show_icons=true&theme=algolia&hide_border=true" /> &nbsp;
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yassine&langs_count=8&hide=shell,hack&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
 <br>
