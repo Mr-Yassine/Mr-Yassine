@@ -38,7 +38,7 @@
 
 <br>
 
-🖥 I'm currently learning VueJS and Laravel.
+🖥 I'm currently learning Angular and JEE.
 
 💾 I love computers for as long as I can remember.
 
