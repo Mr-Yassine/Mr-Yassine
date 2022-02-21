@@ -47,7 +47,7 @@
 
 ⚡ I made my first web page when I was 16 years old.
 
-<br>
+<br><br><br><br>
 
 <!-- Tech Stack -->
 
@@ -164,7 +164,7 @@ Front End
 
 <h2>🔗 Links: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2> 
 
-<br>
+<br><br><br>
 
 * <img width = '18px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> &nbsp; **Yassine BILAL** _alias_ [@Mr-Yassine](https://github.com/Mr-Yassine) <br>
 * <img width = '16px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"> &nbsp; **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
