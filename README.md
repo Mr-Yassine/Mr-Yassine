@@ -78,7 +78,7 @@
 
 
 
-<p align="center">
+<div align="center">
 
 **Front End**
 <br>
@@ -86,7 +86,7 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> &nbsp;
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-</p>
+</div>
 
 **Framework**
 <p align="center">
