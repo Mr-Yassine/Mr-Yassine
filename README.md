@@ -25,7 +25,9 @@
 
 <p align="center">
   Holder of a bachelor's degree in software engineering and currently I am studying Data Science and Big Data in the "Higher National School of Computer Science and Systems Analysis (ENSIAS)". 
+</p>
 
+<p align="center">
   Besides Big Data and Data analysis, I'am also a Full stack web developer because I'm interested in Web Development, I worked as a freelancer so i can be a Front-End, Back-End or Full-Stack Developer.
 </p>
 
