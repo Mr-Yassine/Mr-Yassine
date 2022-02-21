@@ -93,7 +93,7 @@ Front End
 <div align="center">
   
 
-<p font-size: '40px' **Framework** >
+**Framework** 
 <br><br>
 <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> &nbsp;
 <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> &nbsp;
@@ -167,7 +167,7 @@ Front End
 <br>
 
 * <img width = '18px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> &nbsp; **Yassine BILAL** _alias_ [@Mr-Yassine](https://github.com/Mr-Yassine) <br>
-* <img width = '18px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"> &nbsp; **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
+* <img width = '16px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"> &nbsp; **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
 
 
 
