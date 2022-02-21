@@ -166,8 +166,8 @@ Front End
 
 <br>
 
-* <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> &nbsp; **Yassine BILAL** _alias_ [@Mr-Yassine](https://github.com/Mr-Yassine)
-* <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> &nbsp; **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
+* <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> &nbsp; **Yassine BILAL** _alias_ [@Mr-Yassine](https://github.com/Mr-Yassine)
+* <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> &nbsp; **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
 
 
 
