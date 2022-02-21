@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Web%20Development%20and%20Data%20Analysis-blue">
   <img src="https://img.shields.io/badge/From-Morocco-blue">
   <img src="https://img.shields.io/badge/Languages-Arabic%2C%20French%20and%20English-blue">
-
 </p>
 
 <br>
@@ -38,6 +37,8 @@
 
 <br>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 🖥 I'm currently learning Angular.
 
 💾 I love computers for as long as I can remember.
@@ -52,7 +53,7 @@
 
 <br>
 
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5">
   <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=2965F1">
   <img src="https://img.shields.io/badge/Sass-05122A?style=flat&logo=Sass">
@@ -73,7 +74,7 @@
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
   <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&logoColor=37A2EA">
-</p>
+</p> -->
 
 
 
@@ -96,12 +97,13 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javaee.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'>
-<img width ='32px' color ='white' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>
-<img width ='32px' color ='white' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/JSON.svg'>
+<img width ='32px' color ='#FFFFFF' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/JSON.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/MySQL.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'>
 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
   
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/Git.svg'>
