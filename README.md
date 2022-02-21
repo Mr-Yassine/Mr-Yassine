@@ -95,7 +95,7 @@ Front End
 <div align="center">
   
 **Back End** 
-<br><br>
+<br>
 <img width ='46px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> &nbsp;
 <img width ='50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/> &nbsp;
 <img width ='46px' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/> &nbsp;
