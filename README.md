@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<p font-size: '40px' **Front End** >
+<p font-size: '40px' Front End >
 <br><br>
 <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> &nbsp;
 <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> &nbsp;
