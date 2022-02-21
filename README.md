@@ -87,11 +87,10 @@
 
 <br>
 
- ![Mr-Yassine 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mr-Yassine&theme=redical&hide_border=true&area=true)
-| ![Mr-Yassine github stats](https://github-readme-stats.vercel.app/api?username=Mr-Yassine&show_icons=true&theme=radical)             
-| ![Mr-Yassine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Yassine&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yassine&langs_count=8&theme=radical&layout=compact) 
+![Mr-Yassine 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mr-Yassine&theme=redical&hide_border=true&area=true)
+![Mr-Yassine github stats](https://github-readme-stats.vercel.app/api?username=Mr-Yassine&show_icons=true&theme=radical)             
+![Mr-Yassine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Yassine&theme=radical)                                                                                                           
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yassine&langs_count=8&theme=radical&layout=compact) 
 
 
 
@@ -102,7 +101,7 @@
 <br>
 
 * <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> **Yassine BILAL** _alias_ [@Mr-Yassine](https://github.com/Mr-Yassine)
-* img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
+* <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> **My Linked In Profile** (https://www.linkedin.com/in/yassine-bilal/)
 
 
 
