@@ -85,9 +85,18 @@
 <br>
 
 
+<br>
+
+ ![Mr-Yassine 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Moussatef&theme=redical&hide_border=true&area=true)
+| ![Mr-Yassine github stats](https://github-readme-stats.vercel.app/api?username=Moussatef&show_icons=true&theme=radical)             | ![Mr-Yassine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moussatef&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moussatef&langs_count=8&theme=radical&layout=compact) 
+
+
+
 <!-- Links -->
 
-<h2>🔗 Links:</h2>
+<h2>🔗 Links:</h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <br>
 
