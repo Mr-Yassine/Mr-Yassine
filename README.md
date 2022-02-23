@@ -151,7 +151,7 @@ Front End
 <br>
 <div align="center">
 
-![Mr-Yassine 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mr-Yassine&theme=redical&hide_border=true&area=true) &nbsp;
+![Mr-Yassine 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mr-Yassine&theme=redical) &nbsp;
 ![Mr-Yassine github stats](https://github-readme-stats.vercel.app/api?username=Mr-Yassine&show_icons=true&theme=radical) &nbsp;
 ![Mr-Yassine GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Yassine&theme=radical) &nbsp;
 
